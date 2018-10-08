@@ -1,0 +1,25 @@
+Al finalizar el juego:
+ - Alguno de los integrantes del juego puede indicar quien ganó, si ganó el o si perdió.
+
+ - En base a lo que la mayoría de los jugadores indiquen (por votación), se elegirá al ganador.
+
+
+Al pagar a un ganador:
+ - El adeudor deberá indicar que: ya pagó o que quedará debiendo.
+ - El ganador deberá confirmar lo anterior.
+
+
+Al visualizar a los jugadores:
+ - Se podrá ver cuantas veces ha ganado, en que juego y el detalle del juego.
+
+ - Se podrá ver cuanto dinero ha perdido y cuanto ha ganado.
+
+
+ - Se podrá visualizar quien es el mejor jugador con rango de fechas.
+
+ - Se podrá descartar a alguien de poder entrar a un juego si ya debe demasiado a otro jugador que está dentro del mismo juego, pero si este jugador al que se le debe, permite que juegue, no hay problema.
+
+ - El máximo debido a un jugador es de 100 pesos.
+
+
+
